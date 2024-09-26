@@ -4,13 +4,13 @@
 
 <p>
   <a href="mailto:jonathan.cruz89@gmail.com" title="jonathan.cruz89@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:jonathan.cruz89@gmail.com" alt="gmail badge" />
+    <img alt="Gmail badge" src="https://img.shields.io/badge/Email-c14438?logo=gmail&logoColor=white&link=mailto%3Ajonathan.cruz89%40gmail.com">
   </a>
   <a href="https://twitter.com/jonacruzt89" title="@jonacruzt89 on Twitter">
-    <img align="center" src="https://img.shields.io/badge/@jonacruzt89-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jonacruzt89" alt="twitter badge"/>
+    <img alt="Twitter badge" src="https://img.shields.io/badge/%40jonacruzt89-1DA1F2?logo=x&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fjonacruzt89">
   </a>
   <a href="https://www.linkedin.com/in/jonacruz89" title="@jonacruz89 on LinkedIn">
-    <img align="center" src="https://img.shields.io/badge/@jonacruz89-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonacruz89" alt="LinkedIn badge"/>
+    <img alt="LinkedIn badge" src="https://img.shields.io/badge/%40jonacruz89-0A66C2?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjonacruz89">
   </a>
 </p>
 
@@ -19,17 +19,19 @@
 ## 🛠️ Tech
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="nodejs badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/React-007096?style=flat-square&logo=react&logoColor=white" alt="react badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Next.js-1e1e1e?style=flat-square&logo=next.js&logoColor=white" alt="nextjs badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=css3&logoColor=white" alt="html5 badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3 badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Astro-1e1e1e?style=flat-square&logo=astro" alt="astro" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/TailwindCSS-1e1e1e?style=flat-square&logo=tailwindcss" alt="tailwindcss" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="javascript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="typescript">
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="nodejs">
+  <img src="https://img.shields.io/badge/React-007096?logo=react&logoColor=white" alt="react">
+  <img src="https://img.shields.io/badge/Next.js-1e1e1e?logo=next.js&logoColor=white" alt="nextjs">
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="vite">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=css3&logoColor=white" alt="html5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="css3">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="mongodb">
+  <img src="https://img.shields.io/badge/Astro-1e1e1e?logo=astro" alt="astro">
+  <img src="https://img.shields.io/badge/TailwindCSS-1e1e1e?logo=tailwindcss" alt="tailwindcss">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="laravel">
+
 </p>
 
 ---
