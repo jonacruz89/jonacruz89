@@ -42,9 +42,9 @@
 
 ![Github Stats](https://github-readme-stats-three-red-66.vercel.app/api?username=jonacruz89&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en&include_all_commits=true&custom_title=GitHub%20Stats&disable_animations=true)
 
-![Top Langs](https://github-readme-stats-three-red-66.vercel.app/api/top-langs/?username=jonacruz89&theme=rose_pine&hide=TeX,Procfile,Nix&layout=compact&border_radius=8&locale=en&disable_animations=true&langs_count=6)
+![Top Langs](https://github-readme-stats-three-red-66.vercel.app/api/top-langs/?username=jonacruz89&theme=rose_pine&hide=TeX,Procfile,Nix&layout=compact&border_radius=8&locale=en&langs_count=8)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=jonacruz89&label=Profile%20views&color=0e75b6&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=jonacruz89&label=Profile%20views&color=blue)
 
 <!--
 **jonacruz89/jonacruz89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
