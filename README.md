@@ -40,7 +40,7 @@
 
 ![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonacruz89&theme=jolly)
 
-![Github Stats](https://github-readme-stats-three-red-66.vercel.app/api?username=jonacruz89&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en&include_all_commits=true&custom_title=GitHub%20Stats&disable_animations=true)
+![Github Stats](https://github-readme-stats-three-red-66.vercel.app/api?username=jonacruz89&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats-three-red-66.vercel.app/api/top-langs/?username=jonacruz89&theme=rose_pine&hide=TeX,Procfile,Nix&layout=compact&border_radius=8&locale=en&langs_count=8)
 
